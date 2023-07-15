@@ -11,7 +11,11 @@ React Three Fiber - a popular library for creating 3D graphics with ThreeJS in R
 TailwindCSS - a popular utility-first CSS styling framework
 Framer Motion - the most popular library used to bring your React website to life with animations
 
+## Project Video 👇
 
+[Click here](https://vimeo.com/845475626?share=copy)
+
+## 📷 Screenshots 
 ![Screenshot (379)](https://user-images.githubusercontent.com/105142693/229341645-3e797a35-ee8a-4558-a6a0-e908a843b506.png)
 ![Screenshot (380)](https://user-images.githubusercontent.com/105142693/229341648-82fe01c5-e8e8-4138-bc80-4ec95458842e.png)
 ![Screenshot (381)](https://user-images.githubusercontent.com/105142693/229341651-22472494-9fcc-491d-9c74-37f3ab0f3829.png)
